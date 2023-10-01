@@ -1,0 +1,4 @@
+W123, Nguyen Hoang, 20, 3000, Da Nang
+W234, Nguyen Dac Tam Minh, 25, 5000, Hue
+W456, Ngo Minh Cuong, 30, 3000, Quang Binh
+W678, Nguyen Hong Duc, 34, 8912, Hue

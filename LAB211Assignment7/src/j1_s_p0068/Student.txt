@@ -1,0 +1,4 @@
+Cuong,FU11,99.0
+Hoang,FU11,100.0
+Minh,FU11,88.0
+Duc,FU11,100.0

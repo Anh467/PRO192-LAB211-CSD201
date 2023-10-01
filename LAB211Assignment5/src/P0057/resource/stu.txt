@@ -1,0 +1,9 @@
+DE160123/Nguyen Duy Khanh/Thai Binh/khanh@fpt.edu.vn/9.0/9.0/0
+DE160170/Nguyen Anh Viet/Quang Ngai/viet@fpt.edu.vn/7.0/7.0/0
+DS123761/Nguyen Thi Dep/Tay Nguyen/Dep@fpt.edu.vn/8.7/8.0/1
+DS160123/Ngo Thi Anh/Quang Ngai/anhviet@fpt.edu.vn/10.0/10.0/1
+DS160171/Nguyen Van A/Quang Tri/A@gmail.com/1.0/1.0/0
+DS160541/Nguyen Nhat Ki/Ha Noi/ki@fpt.edu.vn/5.0/6.0/1
+DS170124/Nguyen Tran Hoang Phuc/Ha Tinh/hoang@fpt.edu.vn/5.0/6.0/1
+ds123456/Nguyen Hoang Nhat Anh/Nam Binh/anh@fpt.edu.vn/5.0/6.0/1
+DS170180/Nguyen Hoang Anh/Ha Tinh/anh@gmail.com/10.0/6.0/0

@@ -1,0 +1,7 @@
+
+DE160170, Nguyen Anh Viet, Java, 5
+DE160170, Nguyen Anh Viet, .net, 1
+DE160170, Nguyen Anh Viet, c/c++, 1
+DE160170, Nguyen Anh Viet, Java, 3
+DE160177, Nguyen Hong Linh, .net, 2
+DE160177, Nguyen Hong Linh, C/c++, 3
